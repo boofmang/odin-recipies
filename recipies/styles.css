@@ -1,0 +1,27 @@
+*{background-color: silver;
+    text-align: center;
+    list-style-position: inside;}
+
+    html{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+    
+h1{font-size: 72px;
+text-decoration: underline;
+color: darkcyan;}
+
+h2,h3
+{font-size: 48px;
+    text-decoration: underline;
+color: darkgreen;}
+
+
+li {color: darkslateblue
+;
+font-size: 28px;}
+
+p{font-size: 28px;
+color: darkslateblue;}
+
+.linky{
+    font-size: 24px;
+    color: black;
+background-color: red;}

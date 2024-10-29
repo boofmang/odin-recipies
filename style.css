@@ -1,0 +1,24 @@
+*{background-color: silver;}
+
+html{
+font-family: 'Times New Roman', Times, serif;
+}
+
+
+h1{
+    font-size: 72px;
+    color: darkcyan;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li{
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkslateblue;
+    text-decoration: underline;
+    text-align: center;
+    list-style-position: inside;
+    font-weight: bolder;
+}
