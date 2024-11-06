@@ -11,6 +11,9 @@ h1{
     font-weight: bold;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: azure;
+    border: solid black 5px;
+    margin: 10px;
 }
 
 li{
@@ -19,6 +22,32 @@ li{
     color: darkslateblue;
     text-decoration: underline;
     text-align: center;
-    list-style-position: inside;
     font-weight: bolder;
+    border: solid black 6px;
+    padding: 30px;
+    display: inline-block;
+    margin-left: 175px;
+    background-color: azure;
+}
+a{background-color: azure;}
+
+img{
+    height: 200px;
+    width: auto;
+    display: inline-block;
+    margin-left: 260px;
+    border: 15px solid black;
+    
+    
+
+    
+}
+
+.bottom{
+    background-color: azure;
+    height: 75px;
+    width: auto;
+    border: 3px solid black;
+    margin-top: 25px;
+
 }
